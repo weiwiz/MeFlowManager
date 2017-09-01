@@ -1,0 +1,16 @@
+{
+  "self": {
+    "type":{
+      "id":"060708060001",
+      "name":"flow_manager",
+      "icon":""
+    },
+    "module": "./lib/flow-manager/me-flow-manager",
+    "uuid": "ce81db39-b3fe-458a-ac98-99eba6b908a5",
+    "token": "93c3965893e3d663c408a1b1e251fdc3b0637618"
+  },
+  "zookeeper": {
+    "host": "115.28.241.149",
+    "port": 2181
+  }
+}

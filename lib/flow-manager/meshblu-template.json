@@ -1,0 +1,48 @@
+{
+  "meshbluServer": {
+    "id": "48eae0b5.b7152",
+    "type": "meshblu-server",
+    "server": "127.0.0.1",
+    "port": "6868",
+    "uuid": "bceb5e52-799e-414e-a432-b5343a475534",
+    "token": "c8bb707152496548fe82691decc0503534382ed5"
+  },
+  "meshbluIn": {
+    "id": null,
+    "type": "meshblu in",
+    "name": "meshbluIn",
+    "directToMe": true,
+    "uuid": "",
+    "server": null,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  },
+  "meshbluOut": {
+    "id": null,
+    "type": "meshblu out",
+    "name": "meshbluOut",
+    "uuid": null,
+    "broadcast": false,
+    "forwards": false,
+    "outputs": 0,
+    "server": null,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  },
+
+  "flowMap": {
+    "id": "",
+    "type": "comment",
+    "name": "FLOW_MAP",
+    "info": "[]",
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  }
+}
+

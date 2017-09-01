@@ -1,0 +1,14 @@
+{
+  "actionFunc":{
+    "id": null,
+    "type": "function",
+    "name": "actionFunc",
+    "func": "if(<condition>){\n    var newMsg = {\"cmdName\":\"<cmdName>\", \"parameters\":<parameters>};\n    node.send(newMsg);\n}\nreturn ;",
+    "outputs": 1,
+    "valid": true,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  }
+}

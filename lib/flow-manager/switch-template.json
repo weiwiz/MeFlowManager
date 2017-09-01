@@ -1,0 +1,15 @@
+{
+  "flowSwitch":{
+    "id": null,
+    "type": "switch",
+    "name": "flowSwitch",
+    "property": "flowId",
+    "rules": [],
+    "checkall": "false",
+    "outputs": 0,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  }
+}

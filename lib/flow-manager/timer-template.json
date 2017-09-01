@@ -1,0 +1,29 @@
+{
+  "intervalTimer": {
+    "id": null,
+    "type": "inject",
+    "name": null,
+    "topic": "default_timer",
+    "payload": "[]",
+    "payloadType": "string",
+    "repeat": null,
+    "crontab": "",
+    "once": false,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  },
+  "timerFunc": {
+    "id": null,
+    "type": "function",
+    "name": "idSplitter",
+    "func": "if(msg.payload){\n    var flowIds = JSON.parse(msg.payload);\n    for(var i=0,j=flowIds.length; i<j; i++){\n        var newMsg = {flowId:flowIds[i]};\n        node.send(newMsg);\n    }\n}\nreturn ;",
+    "outputs": 1,
+    "valid": true,
+    "x": 0,
+    "y": 0,
+    "z": null,
+    "wires": []
+  }
+}

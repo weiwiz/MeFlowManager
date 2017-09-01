@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de4891c3-8aae-4eec-ba0d-585f1f55c443" name="Default" comment="" />
+    <ignored path="MeFlowManager.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MeFlowManager" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5190">
+              <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mlogger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mlogger/mlogger.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7320">
+              <caret line="244" column="70" lean-forward="false" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me-flow-manager.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="1131" column="57" lean-forward="true" selection-start-line="1131" selection-start-column="57" selection-end-line="1131" selection-end-column="57" />
+              <folding>
+                <element signature="e#819#1019#0" expanded="false" />
+                <element signature="e#1201#1345#0" expanded="false" />
+                <element signature="e#1367#1511#0" expanded="false" />
+                <element signature="e#1534#1678#0" expanded="false" />
+                <element signature="e#1704#1895#0" expanded="false" />
+                <element signature="e#1915#2111#0" expanded="false" />
+                <element signature="e#2136#2280#0" expanded="false" />
+                <element signature="e#2303#2447#0" expanded="false" />
+                <element signature="e#2474#2618#0" expanded="false" />
+                <element signature="e#2640#2784#0" expanded="false" />
+                <element signature="e#2804#2948#0" expanded="false" />
+                <element signature="e#2971#3167#0" expanded="false" />
+                <element signature="e#3184#5007#0" expanded="false" />
+                <element signature="e#3266#3345#0" expanded="false" />
+                <element signature="e#5025#5169#0" expanded="false" />
+                <element signature="e#5190#5386#0" expanded="false" />
+                <element signature="e#5407#5603#0" expanded="false" />
+                <element signature="e#5623#5819#0" expanded="false" />
+                <element signature="n#!!block;n#getId#0" expanded="false" />
+                <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+                <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+                <element signature="n#!!block;n#authToken#0" expanded="false" />
+                <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+                <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+                <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+                <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+                <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+                <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+                <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+                <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+                <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+                <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+                <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+                <element signature="e#18956#20060#0" expanded="false" />
+                <element signature="e#20268#20341#0" expanded="false" />
+                <element signature="e#22958#26852#0" expanded="false" />
+                <element signature="e#26980#28177#0" expanded="false" />
+                <element signature="e#28298#29261#0" expanded="false" />
+                <element signature="e#29384#34899#0" expanded="false" />
+                <element signature="e#49654#50336#0" expanded="false" />
+                <element signature="e#50442#54288#0" expanded="false" />
+                <element signature="e#54637#55754#0" expanded="false" />
+                <element signature="e#55946#58480#0" expanded="false" />
+                <element signature="e#56211#58371#0" expanded="false" />
+                <element signature="e#58562#60765#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error-code.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mlogger/error-code.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13920">
+              <caret line="490" column="24" lean-forward="false" selection-start-line="490" selection-start-column="24" selection-end-line="490" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!block;n#MeSMS#0;n#!!block;n#modules#0;n#!!block;n#MCloud#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/util/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4590">
+              <caret line="172" column="10" lean-forward="false" selection-start-line="172" selection-start-column="3" selection-end-line="172" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configurator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/configurator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16320">
+              <caret line="544" column="0" lean-forward="false" selection-start-line="544" selection-start-column="0" selection-end-line="544" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="virtual-device.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6120">
+              <caret line="204" column="7" lean-forward="true" selection-start-line="204" selection-start-column="7" selection-end-line="204" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function-template.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>getAllTimer</find>
+      <find>getNodeModule</find>
+      <find>deleteNodeModule</find>
+      <find>getFlowIdSplitter</find>
+      <find>getMeshbluIn</find>
+      <find>resetAxisY</find>
+      <find>installNode</find>
+      <find>getMyFlows</find>
+      <find>getFlowDetail</find>
+      <find>payload</find>
+      <find>options</find>
+      <find>retMsg.payload.</find>
+      <find>authToken</find>
+      <find>addFlow</find>
+      <find>deleteFlow</find>
+      <find>replace</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{userUuid: userId}</replace>
+      <replace>parameters</replace>
+      <replace>retMsg.</replace>
+      <replace>self.configurator.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\MeOcer\MeFlowManager\lib</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/flow-manager/function-template.json" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/lib/virtual-device.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-2" />
+    <option name="width" value="1924" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mlogger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeFlowManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flow-manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MeOcer\MeFlowManager\lib" />
+      <recent name="E:\MeOcer\MeFlowManager\lib\flow-manager" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de4891c3-8aae-4eec-ba0d-585f1f55c443" name="Default" comment="" />
+      <created>1486548820348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486548820348</updated>
+      <workItem from="1487646968072" duration="5467000" />
+      <workItem from="1487746245734" duration="2134000" />
+      <workItem from="1487902720427" duration="769000" />
+      <workItem from="1487918244628" duration="3876000" />
+      <workItem from="1488862864475" duration="695000" />
+      <workItem from="1488934681863" duration="9467000" />
+      <workItem from="1489046200167" duration="611000" />
+      <workItem from="1489128069103" duration="5645000" />
+      <workItem from="1489377731084" duration="2844000" />
+      <workItem from="1489979772570" duration="3228000" />
+      <workItem from="1491365480680" duration="53000" />
+      <workItem from="1491365950298" duration="22000" />
+      <workItem from="1491447426935" duration="563000" />
+      <workItem from="1491541382798" duration="91000" />
+      <workItem from="1492661425677" duration="675000" />
+      <workItem from="1492740641159" duration="48000" />
+      <workItem from="1494471707586" duration="50000" />
+      <workItem from="1494472344162" duration="43000" />
+      <workItem from="1494472406162" duration="12000" />
+      <workItem from="1494487851261" duration="13000" />
+      <workItem from="1495159800322" duration="15000" />
+      <workItem from="1495589638860" duration="93000" />
+      <workItem from="1495608031077" duration="44000" />
+      <workItem from="1495609328157" duration="932000" />
+      <workItem from="1496633715178" duration="1809000" />
+      <workItem from="1496731435596" duration="719000" />
+      <workItem from="1496887523324" duration="1377000" />
+      <workItem from="1497579527534" duration="681000" />
+      <workItem from="1497835029478" duration="1916000" />
+      <workItem from="1497924697658" duration="1015000" />
+      <workItem from="1498006975392" duration="1833000" />
+      <workItem from="1499134754335" duration="1611000" />
+      <workItem from="1499219321770" duration="3087000" />
+      <workItem from="1499669448892" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52121000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-2" width="1924" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25243244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53810084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21688159" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server.js</url>
+          <line>15</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1287</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1289</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1292</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>235</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>242</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>243</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1300</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1304</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js</url>
+          <line>1014</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/util/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="172" column="10" lean-forward="false" selection-start-line="172" selection-start-column="3" selection-end-line="172" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/configurator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11310">
+          <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/configurator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11310">
+          <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/configurator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4950">
+          <caret line="165" column="0" lean-forward="false" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5340">
+          <caret line="469" column="59" lean-forward="false" selection-start-line="469" selection-start-column="59" selection-end-line="469" selection-end-column="59" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5340">
+          <caret line="469" column="59" lean-forward="false" selection-start-line="469" selection-start-column="59" selection-end-line="469" selection-end-column="59" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5820">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/util/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="172" column="10" lean-forward="false" selection-start-line="172" selection-start-column="3" selection-end-line="172" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/function-template.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mlogger/error-code.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13920">
+          <caret line="490" column="24" lean-forward="false" selection-start-line="490" selection-start-column="24" selection-end-line="490" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!block;n#MeSMS#0;n#!!block;n#modules#0;n#!!block;n#MCloud#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mlogger/mlogger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7320">
+          <caret line="244" column="70" lean-forward="false" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/virtual-device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6120">
+          <caret line="204" column="7" lean-forward="true" selection-start-line="204" selection-start-column="7" selection-end-line="204" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/configurator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16320">
+          <caret line="544" column="0" lean-forward="false" selection-start-line="544" selection-start-column="0" selection-end-line="544" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5190">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flow-manager/me-flow-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="1131" column="57" lean-forward="true" selection-start-line="1131" selection-start-column="57" selection-end-line="1131" selection-end-column="57" />
+          <folding>
+            <element signature="e#819#1019#0" expanded="false" />
+            <element signature="e#1201#1345#0" expanded="false" />
+            <element signature="e#1367#1511#0" expanded="false" />
+            <element signature="e#1534#1678#0" expanded="false" />
+            <element signature="e#1704#1895#0" expanded="false" />
+            <element signature="e#1915#2111#0" expanded="false" />
+            <element signature="e#2136#2280#0" expanded="false" />
+            <element signature="e#2303#2447#0" expanded="false" />
+            <element signature="e#2474#2618#0" expanded="false" />
+            <element signature="e#2640#2784#0" expanded="false" />
+            <element signature="e#2804#2948#0" expanded="false" />
+            <element signature="e#2971#3167#0" expanded="false" />
+            <element signature="e#3184#5007#0" expanded="false" />
+            <element signature="e#3266#3345#0" expanded="false" />
+            <element signature="e#5025#5169#0" expanded="false" />
+            <element signature="e#5190#5386#0" expanded="false" />
+            <element signature="e#5407#5603#0" expanded="false" />
+            <element signature="e#5623#5819#0" expanded="false" />
+            <element signature="n#!!block;n#getId#0" expanded="false" />
+            <element signature="n#!!block;n#getErrorInfo#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#authToken#0" expanded="false" />
+            <element signature="n#!!block;n#setFlowConfigurations#0" expanded="false" />
+            <element signature="n#!!block;n#getInstalledNodes#0" expanded="false" />
+            <element signature="n#!!block;n#getUserSheet#0" expanded="false" />
+            <element signature="n#!!block;n#getNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowSwitch#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowMap#0" expanded="false" />
+            <element signature="n#!!block;n#deleteNodeModule#0" expanded="false" />
+            <element signature="n#!!block;n#getFlowIdSplitter#0" expanded="false" />
+            <element signature="n#!!block;n#getMeshbluIn#0" expanded="false" />
+            <element signature="n#!!block;n#resetAxisY#0" expanded="false" />
+            <element signature="n#!!block;n#formatFlows#0" expanded="false" />
+            <element signature="e#18956#20060#0" expanded="false" />
+            <element signature="e#20268#20341#0" expanded="false" />
+            <element signature="e#22958#26852#0" expanded="false" />
+            <element signature="e#26980#28177#0" expanded="false" />
+            <element signature="e#28298#29261#0" expanded="false" />
+            <element signature="e#29384#34899#0" expanded="false" />
+            <element signature="e#49654#50336#0" expanded="false" />
+            <element signature="e#50442#54288#0" expanded="false" />
+            <element signature="e#54637#55754#0" expanded="false" />
+            <element signature="e#55946#58480#0" expanded="false" />
+            <element signature="e#56211#58371#0" expanded="false" />
+            <element signature="e#58562#60765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
